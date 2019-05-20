@@ -1,0 +1,13 @@
+d:\users\mehdi\documents\visual studio 2013\Projects\WpfMac\WpfMac\bin\Debug\WpfMac.exe.config
+d:\users\mehdi\documents\visual studio 2013\Projects\WpfMac\WpfMac\bin\Debug\WpfMac.exe
+d:\users\mehdi\documents\visual studio 2013\Projects\WpfMac\WpfMac\bin\Debug\WpfMac.pdb
+d:\users\mehdi\documents\visual studio 2013\Projects\WpfMac\WpfMac\obj\Debug\WpfMac.csprojResolveAssemblyReference.cache
+d:\users\mehdi\documents\visual studio 2013\Projects\WpfMac\WpfMac\obj\Debug\MainWindow.baml
+d:\users\mehdi\documents\visual studio 2013\Projects\WpfMac\WpfMac\obj\Debug\MainWindow.g.cs
+d:\users\mehdi\documents\visual studio 2013\Projects\WpfMac\WpfMac\obj\Debug\App.g.cs
+d:\users\mehdi\documents\visual studio 2013\Projects\WpfMac\WpfMac\obj\Debug\WpfMac_MarkupCompile.cache
+d:\users\mehdi\documents\visual studio 2013\Projects\WpfMac\WpfMac\obj\Debug\WpfMac.g.resources
+d:\users\mehdi\documents\visual studio 2013\Projects\WpfMac\WpfMac\obj\Debug\WpfMac.Properties.Resources.resources
+d:\users\mehdi\documents\visual studio 2013\Projects\WpfMac\WpfMac\obj\Debug\WpfMac.csproj.GenerateResource.Cache
+d:\users\mehdi\documents\visual studio 2013\Projects\WpfMac\WpfMac\obj\Debug\WpfMac.exe
+d:\users\mehdi\documents\visual studio 2013\Projects\WpfMac\WpfMac\obj\Debug\WpfMac.pdb
